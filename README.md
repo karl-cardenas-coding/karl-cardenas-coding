@@ -1,7 +1,6 @@
 ### Welcome to my Github 👾
-I am a passionate technology leader with a strong emphasis on DevSecOps. I enjoy teaching others and enabling them to create business solutions. I believe in empowering others and leading by example. My strong technical background and unique leadership experience allows me to develop strong technical leaders and tackle challenging organizational problems others avoid. Attitude equal altitude. 
 
-More on [crazykarlcodes.dev](https://crazykarlcodes.dev/)
+`git checkout` my portfolio on [crazykarlcodes.dev](https://crazykarlcodes.dev/)
 
 <table><tr>
 
