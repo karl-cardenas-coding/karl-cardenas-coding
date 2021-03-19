@@ -7,7 +7,7 @@
 ---
 ### Open Source projects
 <!-- projects starts -->
-* [go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) An easy to use solution for cleaning up unused Lambda version in AWS
+* [go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) An easy to use solution for cleaning up unused Lambda versions in AWS
 * [disaster-cli](https://github.com/karl-cardenas-coding/disaster-cli) A Golang based CLI tool for determining natural catastrophe near you, or a location specified.
 <!-- projects ends -->
 ---
