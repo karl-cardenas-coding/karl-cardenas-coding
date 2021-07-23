@@ -14,6 +14,7 @@
 
 ### Blog Articles
 <!-- blog starts -->
+* [Deploying HashiCorp Waypoint as a shared service](https://cardenas88karl.medium.com/deploying-hashicorpwaypoint-as-a-shared-service-207b35927431)
 * [How to use DynamoDB locally](https://crazykarlcodes.dev/posts/2020/08/how-to-use-aws-dynamodb-locally/)
 * [Using a Community Support model](https://engineering.statefarm.com/blog/community/)
 * [How to Create a Digital Portfolio That Is Free and Serverless](https://crazykarlcodes.dev/posts/2020/07/how-to-create-a-digital-portfolio-that-is-free-and-serverless/)
