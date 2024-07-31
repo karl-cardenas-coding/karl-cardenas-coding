@@ -7,8 +7,9 @@
 ---
 ### Open Source projects
 <!-- projects starts -->
-* [go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) An easy to use solution for cleaning up unused Lambda versions in AWS
-* [disaster-cli](https://github.com/karl-cardenas-coding/disaster-cli) A Golang based CLI tool for determining natural catastrophe near you, or a location specified.
+* [go-lambda-cleanup](https://github.com/karl-cardenas-coding/go-lambda-cleanup) An easy-to-use solution for cleaning up unused Lambda versions in AWS
+* [disaster-cli](https://github.com/karl-cardenas-coding/disaster-cli) A Go-based CLI tool for determining natural catastrophes near you or a location specified.
+* [mywhoop](https://github.com/karl-cardenas-coding/mywhoop) A tool for gathering and retaining your own Whoop data from the Whoop API.
 <!-- projects ends -->
 ---
 
